@@ -1,4 +1,4 @@
-# TASM Fast API1
+# TASM Fast API
 
 
 # This workflow build and push a Docker container to Google Artifact Registry and deploy it on Cloud Run when a commit is pushed to the "master" branch
