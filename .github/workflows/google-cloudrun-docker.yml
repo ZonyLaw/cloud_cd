@@ -35,7 +35,7 @@ on:
       - 'main'
 
 env:
-  PROJECT_ID: 'dft-tasm-ntm-v5-dev' # TODO: update to your Google Cloud project ID
+  PROJECT_ID: 'sunny-457620' # TODO: update to your Google Cloud project ID
   GAR_NAME: 'gh-demo'
   GAR_LOCATION: 'europe-west1'
   REGION: 'europe-west1' # TODO: update to your region
